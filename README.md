@@ -1,2 +1,2 @@
 # MoreOres
-A mod that adds more ores for tmodloader
+A mod that adds more ores, crafting materials, weapons, armor, accessories and NPCs.
